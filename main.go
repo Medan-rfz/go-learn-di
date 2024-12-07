@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"log"
 
-	"test-di/internal/handler"
-	"test-di/internal/repository"
-	"test-di/internal/server"
+	"github.com/Medan-rfz/go-learn-di/internal/handler"
+	"github.com/Medan-rfz/go-learn-di/internal/repository"
+	"github.com/Medan-rfz/go-learn-di/internal/server"
 
 	"go.uber.org/dig"
 )

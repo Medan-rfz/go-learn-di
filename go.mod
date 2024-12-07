@@ -1,4 +1,4 @@
-module test-di
+module github.com/Medan-rfz/go-learn-di
 
 go 1.22.0
 
